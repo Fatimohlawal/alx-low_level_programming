@@ -1,2 +1,2 @@
-#!/bin/baah
+#!\s*/bin/baah
 gcc -S -masm=intel $CFILE
